@@ -1,0 +1,6 @@
+review,sentiment
+"I love this product!",positive
+"Terrible service, I am disappointed.",negative
+"Excellent experience. Will buy again.",positive
+"Not good, not bad.",neutral
+"Very poor quality. Waste of money.",negative
